@@ -25,6 +25,7 @@ import datasets.imagenet_r
 
 import trainers.coop
 import trainers.cocoop
+import trainers.cocoop_for_nonclip
 import trainers.zsclip
 
 
